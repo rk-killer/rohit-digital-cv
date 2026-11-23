@@ -2,7 +2,7 @@
 
 A responsive, animated creative portfolio made with a single HTML file and local CV PDF. No build tools needed.
 
-## Run locally
+## Run locally 
 Open `index.html` in Chrome, Edge or Firefox. Keep `Rohit_Kumar_CV.pdf` in the same folder for the Download CV buttons.
 
 ## Publish on GitHub Pages
